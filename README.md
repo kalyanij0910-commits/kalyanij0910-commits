@@ -1,10 +1,10 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>Academic and personal projects related to DBMS, SQL, and data analysis.<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly projects, student research work, and data-driven applications.<br><br>🆘 I’m looking for help with<br>Optimizing SQL queries, understanding advanced DBMS concepts, and improving project structure.<br><br>🌱 I’m currently learning<br>SQL, Database Management Systems, data analysis fundamentals, and technical interview preparation.<br><br>⚡ Fun fact<br>I enjoy turning complex concepts into simple explanations and notes.
 
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/kalyani-joshi-/) | 
-[Email](mailto:kalyanij0910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyani-joshi-/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:kalyanij0910@gmail.com)
 
 
 # 💻 Tech Stack:
